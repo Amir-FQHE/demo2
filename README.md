@@ -54,6 +54,16 @@ git branch -M main
 git remote add origin https://github.com/Amir-FQHE/demo2.git
 git push -u origin main
 
+
+___________________________________________________________________
+
+if mistake is made push to github then can undo commit
+
+gir reset HEAD~1
+
+
+
+
 to create a branch
 
 git branch *to see all branches and current branch *
