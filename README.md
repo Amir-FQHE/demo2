@@ -19,19 +19,15 @@ git status
 *see status of files *
 
 
-in git bash do
+in git bash
 
 git add . *add all files*
 
-git commit -m "message" -m "submessage"
+git commit -m "message" -m "submessage" *will commit changes*
 
-git push
+git push *this will add the local repository changes to github respoitory*
 
-end do
-
-this will add the local repository changes to github respoitory
-
-text
+_________________________________________________________________________
 
 to add a directory on machine to github do
 
